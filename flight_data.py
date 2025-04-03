@@ -16,7 +16,7 @@ class FlightData:
             'departureDate' : '2025-04-03', 
             'adults' : 1,
             'nonStop' : 'true' , 
-            'currencyCode' : 'PKR'
+            'currencyCode' : 'GBP'
 
         }
         self.headers = {
